@@ -11,3 +11,5 @@ meaningful statistics.
 - Full-Text search in scan results and certificates
 - Statistics display
 - Multithreaded scans
+
+![](https://github.com/bewue/Misc/blob/main/Pictures/TLSServerScanner.png)
