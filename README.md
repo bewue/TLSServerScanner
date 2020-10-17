@@ -12,4 +12,8 @@ meaningful statistics.
 - Statistics display
 - Multithreaded scans
 
+## Installation
+Simply download the ![latest](https://github.com/bewue/TLSServerScanner/releases/latest) .jar file and run it.
+
+## Screenshot
 ![](https://github.com/bewue/Misc/blob/main/Pictures/TLSServerScanner.png)
