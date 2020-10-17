@@ -12,6 +12,9 @@ meaningful statistics.
 - Statistics display
 - Multithreaded scans
 
+This project started in 2015 and was initially hosted on bitbucket.  
+Feature requests and bug reports are welcome.
+
 ## Installation
 Simply download the ![latest](https://github.com/bewue/TLSServerScanner/releases/latest) .jar file and run it.
 
